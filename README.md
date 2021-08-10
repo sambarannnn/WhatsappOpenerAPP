@@ -9,4 +9,4 @@ Download from [APK Link](https://drive.google.com/file/d/1n-JS1VhEF2YTRGsIRQZpSk
 
 ## Usage
 
-[![video6096003493036819320.gif](https://s6.gifyu.com/images/video6096003493036819320.gif)](https://gifyu.com/image/yITL)
+![GIF](readme/video6096003493036819320.gif)
